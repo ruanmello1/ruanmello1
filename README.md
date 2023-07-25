@@ -1,8 +1,8 @@
 <h2 align="center">Olá 👋</h2>
 
-<h3 align="center">Sou Ruan, estudante no segundo ano de Ciência da Computação e apaixonado por desenvolvimento web.</h3>
+<h3 align="center">Sou Ruan, estudante no terceiro ano de Ciência da Computação e apaixonado por desenvolvimento.</h3>
 
-- 🌱 Atualmente estudo **ReactJS, NextJS e outras tecnologias voltadas ao desenvolvimento de aplicações web, desde o backend até o frontend.**
+- 🌱 Atualmente estudo **Java, Spring Boot, React.js e outras tecnologias voltadas ao desenvolvimento de aplicações web, desde o backend até o frontend.**
 
 - 👨‍💻 Meus projetos podem ser encontrados em [https://github.com/ruanmello1?tab=repositories](https://github.com/ruanmello1?tab=repositories)
 
